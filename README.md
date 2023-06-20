@@ -5,4 +5,4 @@ We benefit immensely from the publicly available works of Gürkaynak, Karasoy-Ca
 3. We provide the code used in the creation of the hedge variable (04 Final Read Hedge.ipynb) and the hedge variable created (Hedge variable.csv).
 4. We provide the code and methodology employed to derive the raw GSS-factors which are used to develop the final GSS factors as previously described. The development of the final GSS factors is done using a modification of the code provided by Gürkaynak, Sack, and Swanson (2007). The code provided is stored under the name 05 GSS Factor derivation.ipnyb.
 
-All other methodology cannot be provided without a violation of protections for proprietary data. The code and methodology is provided under www.github.com.
+All other methodology cannot be provided without a violation of protections for proprietary data.
